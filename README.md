@@ -19,6 +19,9 @@ This repository is created for practice random problems in Java language.
 ### functionPrintTableofANumber
 <p>This is java function based program, where users can input table of a numbers which are displaying with its multiplication. </p>
 
+### patternHollowButterfly
+<p>This program shows hollow butterfly pattern.</p>
+
 ### PrintEvenNumbers
 <p>This is a very simple program where user can input a number and get all the even numbers upto the inputed number.</p>
 
