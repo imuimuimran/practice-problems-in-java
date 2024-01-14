@@ -10,6 +10,15 @@ This repository is created for practice random problems in Java language.
 ### CheckPrimeNumbers
 <p>By using this program, users can check if a number is a prime number or not. </p>
 
+### functionEvenNumberCheck
+<p>This is java function based program, where users can check if a number is even number or not. </p>
+
+### functionPrimeNumberCheck
+<p>This is java function based program, where users can check if a number is prime number or not. </p>
+
+### functionPrintTableofANumber
+<p>This is java function based program, where users can input table of a numbers which are displaying with its multiplication. </p>
+
 ### PrintEvenNumbers
 <p>This is a very simple program where user can input a number and get all the even numbers upto the inputed number.</p>
 
