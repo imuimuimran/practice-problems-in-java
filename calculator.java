@@ -37,6 +37,8 @@ public class calculator {
             }
             break;
             default : System.out.println("Invalid Operator");
-        }          
+        }  
+        
+        sc.close();
     }  
 }  

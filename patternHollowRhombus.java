@@ -27,5 +27,7 @@ public class patternHollowRhombus {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

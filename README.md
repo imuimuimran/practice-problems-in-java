@@ -22,6 +22,9 @@ This repository is created for practice random problems in Java language.
 ### patternHollowButterfly
 <p>This program shows hollow butterfly pattern.</p>
 
+### patternHollowRhombus
+<p>This program shows hollow rhombus pattern.</p>
+
 ### PrintEvenNumbers
 <p>This is a very simple program where user can input a number and get all the even numbers upto the inputed number.</p>
 

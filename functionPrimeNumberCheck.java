@@ -31,5 +31,7 @@ public class functionPrimeNumberCheck {
         int n = scanner.nextInt(); 
 
         checkPrimeNumber(n);
+
+        scanner.close();
     }  
 } 

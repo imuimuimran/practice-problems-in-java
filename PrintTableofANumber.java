@@ -11,5 +11,7 @@ public class PrintTableofANumber {
         for(int i = 1; i<= M; i++){
             System.out.println(N + " X " + i + " = " + i * N);
         }
+
+        sc.close();
     }
 }

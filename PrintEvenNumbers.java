@@ -12,5 +12,7 @@ public class PrintEvenNumbers {
                 System.out.println(i);
             }
         }
+
+        sc.close();
     }
 }

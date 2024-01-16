@@ -14,5 +14,7 @@ public class functionPrintTableofANumber {
         int M = scanner.nextInt();
 
         printTable(N, M);
+
+        scanner.close();
     }  
 } 

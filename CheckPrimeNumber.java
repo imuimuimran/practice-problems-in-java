@@ -26,5 +26,7 @@ public class CheckPrimeNumber {
                 System.out.println(n + " is a prime number.");
             }
         }
+
+        sc.close();
     }
 }

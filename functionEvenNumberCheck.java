@@ -17,5 +17,7 @@ public class functionEvenNumberCheck {
         int n = scanner.nextInt(); 
 
         checkEvenNumber(n);
+
+        scanner.close();
     }  
 }  
