@@ -10,6 +10,9 @@ This repository is created for practice random problems in Java language.
 ### CheckPrimeNumbers
 <p>By using this program, users can check if a number is a prime number or not. </p>
 
+### CheckVowel
+<p>By using this program, users can check if a letter is vowel or not. </p>
+
 ### functionEvenNumberCheck
 <p>This is java function based program, where users can check if a number is even number or not. </p>
 
