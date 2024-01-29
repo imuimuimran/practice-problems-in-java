@@ -4,6 +4,9 @@ This repository is created for practice random problems in Java language.
 ## List of programs
 --- 
 
+### Bubble Sort
+<p>This is a program where user can input number randomly and get the result in bubble sort in java.</p>
+
 ### Calculator
 <p>This is a program where user can calculate (sum, subtract, multiply, divide and modulus) with two numbers and get the result of the calculation. If they entered a wrong value, it shows “Invalid operators”.</p>
 
