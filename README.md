@@ -31,6 +31,9 @@ This repository is created for practice random problems in Java language.
 ### patternHollowRhombus
 <p>This program shows hollow rhombus pattern.</p>
 
+### powerofTwo
+<p>This program give outpu that a number is power of 2 or not with bitwise operation.</p>
+
 ### PrintEvenNumbers
 <p>This is a very simple program where user can input a number and get all the even numbers upto the inputed number.</p>
 
